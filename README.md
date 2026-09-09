@@ -59,33 +59,6 @@
 </p>
 
 
-# 🛠 Currently Working On
-
-- Building software projects
-- Improving problem-solving skills
-- Learning advanced programming
-- Working on personal projects
-
----
-
-# 📚 Currently Learning
-
-- Java
-- Data Structures & Algorithms
-- Web Development
-- Database Management
-- Git & GitHub
-
----
-
-# 🎯 Goals
-
-- Contribute to Open Source
-- Build real-world applications
-- Improve Data Structures & Algorithms
-- Learn new technologies
-- Grow my GitHub portfolio
-
 ---
 
 # 💡 Favorite Quote
