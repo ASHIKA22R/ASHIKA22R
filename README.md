@@ -15,7 +15,7 @@
 - I'm a Aspiring Software developer passionate about technology.
 - I enjoy building real-world projects.
 - Currently learning web development.
-- Interested in Web Development / AI / IoT / Software Development**.
+- Interested in Web Development / AI / IoT / Software Development.
 - Open to collaborating on exciting projects.
 - Always learning and improving my coding skills.
 
@@ -44,7 +44,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,c++,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c++,java,python,c,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode"/>
 </p>
 
 ---
