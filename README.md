@@ -48,56 +48,16 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## Project 1 – [Project Name]
-
-[Short description of your project.]
-
-**Tech Stack**
-
-`Java` `HTML` `CSS` `JavaScript`
-
-- Live Demo: [Project URL]
-- Repository: [GitHub Repository]
-
----
-
-## Project 2 – [Project Name]
-
-[Short description of your project.]
-
-**Tech Stack**
-
-`Java` `MySQL` `HTML` `CSS`
-
-- Live Demo: [Project URL]
-- Repository: [GitHub Repository]
-
----
-
-## Project 3 – [Project Name]
-
-[Short description of your project.]
-
-**Tech Stack**
-
-`Python` `AI` `Flask`
-
-- Live Demo: [Project URL]
-- Repository: [GitHub Repository]
-
----
 
 # 📊 GitHub Stats
 
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=ASHIKA22R&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIKA22R&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +66,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsern
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHIKA22R&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -114,7 +74,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsern
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHIKA22R&theme=tokyo-night"/>
 </p>
 
 ---
@@ -122,7 +82,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsern
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ASHIKA22R&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -143,7 +103,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsern
 - Web Development
 - Database Management
 - Git & GitHub
-- [Add your current technology]
 
 ---
 
@@ -164,7 +123,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsern
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ASHIKA22R&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">
