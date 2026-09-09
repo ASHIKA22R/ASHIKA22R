@@ -24,7 +24,7 @@
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/ashika-r-87b3bb329]">
+<a href="https://www.linkedin.com/in/ashika-r-87b3bb329">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:[Email Address]">
+<a href="mailto:rashika051@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -43,7 +43,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,cs,bootstrap,html,css,js,react,php,nodejs,express,mysql,mongodb,git,github,vscode,unity"/>
 </p>
 
 ---
