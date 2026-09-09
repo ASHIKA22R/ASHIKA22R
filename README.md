@@ -49,19 +49,7 @@
 ---
 
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=ASHIKA22R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIKA22R&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -70,21 +58,6 @@
 
 </p>
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHIKA22R&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ASHIKA22R&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🛠 Currently Working On
 
